@@ -1,2 +1,7 @@
+# .gitignore
+# Ignore executables and build artifacts
 *.exe
 WAPPAC
+build/
+dist/
+*.zip
