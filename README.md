@@ -43,6 +43,5 @@ For competition or platform-related questions, please contact the COER team via 
 
 ---
 
-© 2025 COER – Maynooth University. All rights reserved.
-
+© 2025 COER – Maynooth University.
 ```
