@@ -2,7 +2,6 @@
 
 Welcome to the official repository for the **WavePiston Passive Control (WAPPAC) Competition** developed by the **Centre for Ocean Energy Research (COER)** at Maynooth University.
 
-The repository contains the **template files** and **model data** required for developing and testing control strategies for the WAPPAC benchmark problem.
 
 ## Documentation
 Full competition rules, controller submission guidelines, and evaluation procedures are detailed on the official documentation site:
@@ -12,6 +11,7 @@ Full competition rules, controller submission guidelines, and evaluation procedu
 ---
 
 ## Repository Contents
+The repository contains the **template files** and **model data** required for developing and testing control strategies for the WAPPAC benchmark problem.
 
 | Folder / File | Description |
 | :------------- | :----------- |
