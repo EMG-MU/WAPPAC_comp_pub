@@ -18,7 +18,6 @@ Each release ZIP contains:
 - Precompiled binaries for both operating systems  
 - Full source code snapshot  
 - Example controller and model data  
-- Usage instructions (`README_release.md`)
 
 Download the latest release and extract it locally to start testing your controller.
 
