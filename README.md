@@ -10,20 +10,6 @@ Full competition rules, controller submission guidelines, and evaluation procedu
 
 ---
 
-## Repository Contents
-The repository contains the **template files** and **model data** required for developing and testing control strategies for the WAPPAC benchmark problem.
-
-| Folder / File | Description |
-| :------------- | :----------- |
-| `model_data/` | Contains hydrodynamic model data and parameters used by the simulator |
-| `my_controller.py` | Example controller template file |
-| `my_sim_input_file.json` | Example simulation input configuration |
-| `control_helpers/` | *(Optional)* Folder for user-defined helper modules used by controllers |
-| `external_packages/` | Local folder for installing third-party Python packages (empty by default) |
-| `.gitignore` | Ensures large or local-only folders (e.g., `external_packages/`) are not tracked |
-
----
-
 ## Getting WAPPAC Simulation Platform
 
 The simulator is distributed as **self-contained executables** for Windows and Linux, available under the [Releases](https://github.com/EMG-MU/WAPPAC_comp_pub/releases) section.
@@ -35,6 +21,20 @@ Each release ZIP contains:
 - Usage instructions (`README_release.md`)
 
 Download the latest release and extract it locally to start testing your controller.
+
+---
+
+## Repository Contents
+The repository contains the **template files** and **model data** required for developing and testing control strategies for the WAPPAC benchmark problem. Note that the WAPPAC binaries are not included in the repository due to their size; they are available as a GitHub release as specified above.
+
+| Folder / File | Description |
+| :------------- | :----------- |
+| `model_data/` | Contains hydrodynamic model data and parameters used by the simulator |
+| `my_controller.py` | Example controller template file |
+| `my_sim_input_file.json` | Example simulation input configuration |
+| `control_helpers/` | *(Optional)* Folder for user-defined helper modules used by controllers |
+| `external_packages/` | Local folder for installing third-party Python packages (empty by default) |
+| `.gitignore` | Ensures large or local-only folders (e.g., `external_packages/`) are not tracked |
 
 ---
 
