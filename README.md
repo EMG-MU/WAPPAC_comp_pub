@@ -1,6 +1,6 @@
 # WAPPAC Simulation Platform
 
-Welcome to the official repository for the **WavePiston Passive Control (WAPPAC) Control Competition** developed by the **Centre for Ocean Energy Research (COER)** at Maynooth University.
+Welcome to the official repository for the **WavePiston Passive Control (WAPPAC) Competition** developed by the **Centre for Ocean Energy Research (COER)** at Maynooth University.
 
 The repository contains the **template files** and **model data** required for developing and testing control strategies for the WAPPAC benchmark problem.
 
