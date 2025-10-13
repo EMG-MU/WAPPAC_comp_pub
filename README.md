@@ -4,6 +4,11 @@ Welcome to the official repository for the **WavePiston Passive Control (WAPPAC)
 
 The repository contains the **template files** and **model data** required for developing and testing control strategies for the WAPPAC benchmark problem.
 
+## Documentation
+Full competition rules, controller submission guidelines, and evaluation procedures are detailed on the official documentation site:
+
+  [WAPPAC Documentation Portal](https://emg-mu.github.io/WAPPAC_docs/home.html)
+
 ---
 
 ## Repository Contents
@@ -30,15 +35,6 @@ Each release ZIP contains:
 - Usage instructions (`README_release.md`)
 
 Download the latest release and extract it locally to start testing your controller.
-
----
-
-## Documentation
-
-Full competition rules, controller submission guidelines, and evaluation procedures are detailed on the official documentation site:
-
-  [WAPPAC Documentation Portal](https://emg-mu.github.io/WAPPAC_docs/home.html)
-
 
 ---
 
