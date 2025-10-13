@@ -19,7 +19,7 @@ The repository contains the **source files**, **model data**, and **templates** 
 
 ---
 
-## Getting the Platform
+## Getting WAPPAC Simulation Platform
 
 The simulator is distributed as **self-contained executables** for Windows and Linux, available under the [Releases](https://github.com/EMG-MU/WAPPAC_comp_pub/releases) section.
 
