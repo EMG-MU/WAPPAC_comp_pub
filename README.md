@@ -12,7 +12,7 @@ Full competition rules, controller submission guidelines, and evaluation procedu
 
 ## Getting WAPPAC Simulation Platform
 
-The simulator is distributed as **self-contained executables** for Windows and Linux, available under the [Releases](https://github.com/EMG-MU/WAPPAC_comp_pub/releases) section.
+The simulator is distributed as **self-contained executables** for Windows and Linux, available after registering via the following [form](https://docs.google.com/forms/d/e/1FAIpQLScfgXSWWg5eI0pRg2_jd_cX82W4DifeaOzrqx5pv14d5TWwPQ/viewform).
 
 Each release ZIP contains:
 - Precompiled binaries for both operating systems  
@@ -39,7 +39,11 @@ The repository contains the **template files** and **model data** required for d
 
 ## Contact
 
-For competition or platform-related questions, please contact the COER team via the official channels listed in the documentation.
+For competition or platform-related questions, or if having any issues while registering and obtaining the WAPPAC simulation platform, please contact the COER team via the following official channels:
+
+  Email: eugenio.gelos@mu.ie - colm.fitzgerald@mu.ie
+
+Use this address for technical assistance, bug or security reports, and formal competition-related inquiries.
 
 ---
 
