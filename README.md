@@ -14,11 +14,6 @@ Full competition rules, controller submission guidelines, and evaluation procedu
 
 The WAPPAC simulator is distributed as **self-contained executables** for Windows and Linux, **available after registration** via the following [form](https://docs.google.com/forms/d/e/1FAIpQLScfgXSWWg5eI0pRg2_jd_cX82W4DifeaOzrqx5pv14d5TWwPQ/viewform).
 
-Each release ZIP contains:
-- Precompiled binaries for both operating systems  
-- Full source code snapshot  
-- Example controller and model data  
-
 Download the latest release and extract it locally to start testing your controller.
 
 ---
